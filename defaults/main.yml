@@ -4,7 +4,7 @@ dds_country: US
 dds_state: North Carolina
 dds_locality: Durham
 dds_organization: Acme Corp
-dds_host: 127.0.0.1
+dds_host: 172.16.1.7
 dds_common_name: "{{ dds_host }}" 
 dds_passphrase: Phrase123!
 dds_server_cert_path: /etc/docker
